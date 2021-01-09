@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575576034787",
+    "firebase_url": "https://dart-chat-e8d22.firebaseio.com",
+    "project_id": "dart-chat-e8d22",
+    "storage_bucket": "dart-chat-e8d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575576034787:android:a8ac822d2c19ef9129a4d6",
+        "android_client_info": {
+          "package_name": "com.amit_kumar.dartChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575576034787-ks00japnpcqhqao4cj1sa552m9acgknl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Q9KmBZS_dcvdRBLAxONY847ACoGC69M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575576034787-ks00japnpcqhqao4cj1sa552m9acgknl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
