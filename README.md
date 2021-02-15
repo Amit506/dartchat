@@ -1,6 +1,7 @@
 # dartChat
 
 A new Flutter project.
+![PicsArt_02-16-02 11 07](https://user-images.githubusercontent.com/65785786/107992372-90ffed80-6ffe-11eb-8872-be148370a7d0.jpg) 
 
 ## Getting Started
 
